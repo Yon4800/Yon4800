@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td> <img width="300px" src="https://github.com/Yon4800/Yon4800/assets/48090196/aceadb0e-0519-4f68-8190-68192e0cc853"/></td>
-    <td> <img width="300px" src="https://github.com/Yon4800/Yon4800/assets/48090196/0dc499e9-4cfb-4566-9a56-5f41716f0b6b"/></td>
+    <td> <img width="250px" src="https://github.com/Yon4800/Yon4800/assets/48090196/ed2f6a1b-bc1b-427f-a816-cf9e83b7f89d"/></td>
     <td> <img width="300px" src="https://github.com/Yon4800/Yon4800/assets/48090196/b12bed3f-9bf5-43af-844c-261f634e65d7"/></td>
   </tr>
   <tr>
