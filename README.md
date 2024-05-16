@@ -4,12 +4,13 @@
 へたっちなので誰もしないようなミスをよくします許して(((<br>
 何もかも無知です<br>
 <!-- そろそろ就職したい... -->
+
 ## ワイの持っているSBC<br>
 <table>
   <tr>
-    <td> <img width="300px" src="https://github.com/Yon4800/Yon4800/assets/48090196/aceadb0e-0519-4f68-8190-68192e0cc853"/></td>
-    <td> <img width="250px" src="https://github.com/Yon4800/Yon4800/assets/48090196/ed2f6a1b-bc1b-427f-a816-cf9e83b7f89d"/></td>
-    <td> <img width="300px" src="https://github.com/Yon4800/Yon4800/assets/48090196/b12bed3f-9bf5-43af-844c-261f634e65d7"/></td>
+    <td> <img width="300px" src="https://github.com/Yon4800/Yon4800/assets/48090196/a223ef76-00af-435d-92ca-524a483337db"/></td>
+    <td> <img width="250px" src="https://github.com/Yon4800/Yon4800/assets/48090196/c22b88ae-cee2-4742-8128-2ab711ab6517"/></td>
+    <td> <img width="300px" src="https://github.com/Yon4800/Yon4800/assets/48090196/8e1e65e9-6a28-44d5-86fe-0d7a8ae1399b"/></td>
   </tr>
   <tr>
     <td> Radxa Rock Pi S 512MB(PFY-F1)</td>
