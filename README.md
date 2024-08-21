@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td> Radxa Rock Pi S 512MB(PFY-F1)</td>
-    <td> Xunlong Orange Pi Zero 3 1.5GB(PFY-F4)</td>
+    <td> Xunlong Orange Pi Zero 3 1.5GB(PFY-FH1)</td>
     <td> Librecomputer AML-S905D3-CC 4GB(PFY-F3)</td>
     <td> Radxa Zero 3E 2GB(PFY-F4V2)</td>
   </tr>
