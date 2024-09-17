@@ -8,18 +8,18 @@
 <table>
   <tr>
     <td> <img width="300px" src="https://github.com/Yon4800/Yon4800/assets/48090196/a223ef76-00af-435d-92ca-524a483337db"/></td>
-    <td> <img width="250px" src="https://github.com/Yon4800/Yon4800/assets/48090196/c22b88ae-cee2-4742-8128-2ab711ab6517"/></td>
     <td> <img width="300px" src="https://github.com/Yon4800/Yon4800/assets/48090196/8e1e65e9-6a28-44d5-86fe-0d7a8ae1399b"/></td>
+    <td> <img width="250px" src="https://github.com/Yon4800/Yon4800/assets/48090196/c22b88ae-cee2-4742-8128-2ab711ab6517"/></td>
     <td> <img width="300px" src="https://github.com/user-attachments/assets/207af346-4c64-469e-86d5-e3846e35485e"/></td>
 
 
 
   </tr>
   <tr>
-    <td> Radxa Rock Pi S 512MB(PFY-F1)</td>
-    <td> Xunlong Orange Pi Zero 3 1.5GB(PFY-FH1)</td>
-    <td> Librecomputer AML-S905D3-CC 4GB(PFY-F3)</td>
-    <td> ~~Radxa Zero 3E 2GB(PFY-F4V2)~~ ※不良品だったようで現在交換中です。しばらくお待ちください</td>
+    <td> Radxa Rock Pi S 512MB(PFY-F1) </td>
+    <td> Librecomputer AML-S905D3-CC 4GB(PFY-F3) </td>
+    <td> Xunlong Orange Pi Zero 3 1.5GB(PFY-F4V1) </td>
+    <td> Radxa Zero 3E 2GB(PFY-F4V2) </td>
   </tr>
 </table>
 
