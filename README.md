@@ -1,6 +1,6 @@
 # Hello よんぱちさんです
 なんかです(でたらめ)<br>
-ぐちゃぐちょMinecraft Bedrockアドオン、PythonのPterodactylにSBCで連携したなんかやあと伝言ゲームBotなどを作っています<br>
+ぐちゃぐちょMinecraft Bedrockアドオン、呪いのMinecraftのようなもの、PythonのPterodactylにSBCで連携したなんかやあと伝言ゲームBotなどを作っています<br>
 へたっちです<br>
 <!-- そろそろ就職したい... -->
 
