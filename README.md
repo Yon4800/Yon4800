@@ -1,6 +1,6 @@
 # Hello よんぱちさんです
 なんかです(でたらめ)<br>
-JE版のAlpha、Beta、製品版1.2.5以前で呪いのMinecraftもどきのブランドの[YonCursedMC](https://github.com/YonCursedMC)、[LDT](https://github.com/ldnserver)を出していたり、MisskeyのBotなどを作っています<br>
+JE版のAlpha、Beta、製品版1.2.5以前で呪いのMinecraftもどきのブランドの[YonCursedMC](https://github.com/YonCursedMC)、[LDT](https://github.com/ldndevelopteam)を出していたり、MisskeyのBotなどを作っています<br>
 へたっちです<br>
 <!-- そろそろ就職したい... -->
 
